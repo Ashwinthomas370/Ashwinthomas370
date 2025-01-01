@@ -19,7 +19,7 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+<img align="right" height="356" width="500" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpybnUybTR4OXlxdXBvamliMjh1czY2b2V2aThxOTNpZmM4cmx0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif"/>
   
   ```javascript
   class SoftwareEngineer {
