@@ -101,11 +101,6 @@
   </a>
 </div>
 
-<!-- Spotify Now Playing -->
-<div align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400"/>
-</div>
-
 
 <!-- Snake Animation -->
 
