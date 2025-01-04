@@ -19,26 +19,37 @@
 
 <!-- About Me Section -->
 <div align="center">
-<img align="right" height="356" width="500" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHpybnUybTR4OXlxdXBvamliMjh1czY2b2V2aThxOTNpZmM4cmx0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hw0wIr1YL75VC/giphy.gif"/>
+<img align="center" height="356" width="500" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3AwNDc2OHZrOGlpbGQ5MDBwZ2Y3ZWRudjRlcnZqaG05Y2dvbzFxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"/>
   
-  ```javascript
-  class SoftwareEngineer {
-    constructor() {
-      this.name = "Ashwin Thomas";
-      this.role = "Full Stack Developer";
-      this.languageSpoken = ["en_US", "JavaScript", "TypeScript"];
-      this.currentProject = "Webchat";
-      this.learning = "Supabase 🚀";
-    }
-    
-    sayHi() {
-      console.log("Thanks for dropping by! Let's build something amazing together!");
-    }
-  }
-  
-  const me = new SoftwareEngineer();
-  me.sayHi();
-  ```
+<div align="center">
+<pre>
+╔══════════════════════════╗
+║  DEVELOPER BOOT SEQUENCE ║
+╚══════════════════════════╝
+
+LOADING PROFILE...
+------------------
+NAME:     Ashwin Thomas
+SYSTEM:   Full Stack Dev v3.0
+STATUS:   Online & Coding
+
+MEMORY ALLOCATION:
+-----------------
+* JavaScript   [||||||||  ]
+* TypeScript   [|||||||   ]
+* React        [||||||||  ]
+
+CURRENT PROCESS:
+---------------
+> Running: Webchat.exe
+> Loading: Supabase.dll
+> Status: Compiling...
+
+READY FOR INPUT_
+█
+</pre>
+</div>
+
 </div>
 
 <br/>
