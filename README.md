@@ -21,36 +21,29 @@
 <div align="center">
 <img align="center" height="356" width="500" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3AwNDc2OHZrOGlpbGQ5MDBwZ2Y3ZWRudjRlcnZqaG05Y2dvbzFxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif"/>
   
-<div align="center">
-<pre>
-╔══════════════════════════╗
-║  DEVELOPER BOOT SEQUENCE ║
-╚══════════════════════════╝
+```
+╔═ DEVELOPER FREQUENCY ═╗
+║ ▅ ▆ ▇ █ ASHWIN █ ▇ ▆ ▅ ║
+╚════════════════════════╝
 
-LOADING PROFILE...
-------------------
-NAME:     Ashwin Thomas
-SYSTEM:   Full Stack Dev v3.0
-STATUS:   Online & Coding
+♪ Now Playing: debug.mp3 ───────────
+0:03 ━━━━━⬤━━━━━━━━━━━━━ 3:45
+      ⇄  ◁  II  ▷  ↺
+🎵 Full Stack Developer
+📻 Broadcasting Live
 
-MEMORY ALLOCATION:
------------------
-* JavaScript   [||||||||  ]
-* TypeScript   [|||||||   ]
-* React        [||||||||  ]
+▁ ▂ ▄ ▅ ▆ ▇ █ SKILLS █ ▇ ▆ ▅ ▄ ▂ ▁
+JavaScript  ▰▰▰▰▰▰▰▱  90%
+React.js    ▰▰▰▰▰▰▱▱  80%
+Node.js     ▰▰▰▰▰▱▱▱  70%
+TypeScript  ▰▰▰▰▰▰▱▱  80%
 
-CURRENT PROCESS:
----------------
-> Running: Webchat.exe
-> Loading: Supabase.dll
-> Status: Compiling...
 
-READY FOR INPUT_
-█
-</pre>
-</div>
 
-</div>
+Volume: ▁ ▂ ▄ ▅ ▆ ▇ █ 100%
+Signal Strength: ▰▰▰▰▰▰▰▰ 
+Status: Online & Coding 🟢
+```
 
 <br/>
 
@@ -63,7 +56,7 @@ READY FOR INPUT_
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinthomas370&theme=radical&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinthomas370&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
+        <img src="https://streak-stats.demolab.com?user=ashwinthomas370&theme=radical&hide_border=true&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakLabel=FFFFFF" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
@@ -90,10 +83,7 @@ READY FOR INPUT_
     <br/>
     <div align="left">
       • 🎮 Console.log is my debugger bestie<br/>
-      • 🌱 Currently mastering Supabase<br/>
       • 💡 Turning caffeine into code since 2020<br/>
-      • 🎵 Coding to the rhythm of lofi beats<br/>
-      • 🚀 Building the future, one commit at a time
     </div>
   </details>
 </div>
@@ -113,7 +103,6 @@ READY FOR INPUT_
 </div>
 
 
-<!-- Snake Animation -->
 
 
 <!-- Footer -->
