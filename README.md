@@ -5,6 +5,7 @@
 
 <div align="center">
   <!-- Cyberpunk animated background -->
+  
   <img src="https://giffiles.alphacoders.com/222/222829.gif" width="100%" height="100%"/>
 </div>
 
