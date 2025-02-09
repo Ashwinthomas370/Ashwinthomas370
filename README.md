@@ -18,7 +18,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwinthomas370&label=Profile Stalkers&color=ea00d9&style=for-the-badge" alt="Profile Stalkers">
+  <img src="https://komarev.com/ghpvc/?username=ashwinthomas370&label=Profile%20Stalkers&color=ea00d9&style=for-the-badge" alt="Profile Stalkers"/>
 </p>
 
 <br/>
