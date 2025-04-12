@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Cyberpunk animated background -->
   
-  <img src="https://giffiles.alphacoders.com/222/222829.gif" width="100%" height="100%"/>
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-5714-622f-8bf7-c46670850977/raw?se=2025-04-12T12%3A05%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=25b5425c-d7c1-5b33-974f-9c2136b2f826&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-12T01%3A33%3A50Z&ske=2025-04-13T01%3A33%3A50Z&sks=b&skv=2024-08-04&sig=30Av2%2BDCaOfDECHojiWrGmvLzJxtH68Kw9pZ31lSSmU%3D" width="100%" height="100%"/>
 </div>
 
 <h1 align="center">
