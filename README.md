@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/fbbf49fd-0b59-4430-a715-3d199820ba77)<div align="center">
   <!-- Header with custom cyberpunk gradient & accent color -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91,ea00d9&height=200&section=header&text=Ashwin%20Thomas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=0abdc6" />
 </div>
@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Cyberpunk animated background -->
   
-  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-0798-622f-9220-61ecb55e9154/raw?se=2025-04-12T12%3A29%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=0321d363-b6be-5386-a62c-acb2dba03def&skoid=f0c3f613-0f9b-4a8a-a29a-c1a910343ad7&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-12T10%3A05%3A08Z&ske=2025-04-13T10%3A05%3A08Z&sks=b&skv=2024-08-04&sig=33IOoFHjSATo2tB67/mZRCwp0c6evlSC4OVixQebGoM%3D" width="100%" height="100%"/>
+  <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-7968-61f7-be3b-832ac158f8a1/raw?se=2025-05-12T16%3A36%3A45Z&sp=r&sv=2024-08-04&sr=b&scid=00000000-0000-0000-0000-000000000000&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-11T21%3A28%3A39Z&ske=2025-05-12T21%3A28%3A39Z&sks=b&skv=2024-08-04&sig=05fXJ0nN5AwN6O6ZD/q8g0CmG%2Bc%2BxnfmcA3CdOMRdcw%3D" width="100%" height="100%"/>
 </div>
 
 <h1 align="center">
