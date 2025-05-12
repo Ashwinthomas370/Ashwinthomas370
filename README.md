@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/fbbf49fd-0b59-4430-a715-3d199820ba77)<div align="center">
   <!-- Header with custom cyberpunk gradient & accent color -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=711c91,ea00d9&height=200&section=header&text=Ashwin%20Thomas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=0abdc6" />
 </div>
